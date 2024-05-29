@@ -1,4 +1,4 @@
-# LGM(lets grow more )
+**Machine Learning Projects**
 
 This repository contains two machine learning projects: Iris dataset classification and stock market prediction using a Stacked LSTM model.
 
